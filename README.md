@@ -1,4 +1,4 @@
-## kNN and Decision Tree classification on News Articles
+## kNN and Decision Tree classification on News Articles in R
 
 1. Download the news articles dataset named “20news-18828.tar.gz”, from an online textual dataset repository: http://qwone.com/%7Ejason/20Newsgroups/. The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup articles, partitioned (nearly) evenly across 20 different newsgroups.
 
